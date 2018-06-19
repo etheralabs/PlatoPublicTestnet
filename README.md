@@ -1,0 +1,2 @@
+# PlatoPublicTestnet
+Plato Testnet (Public)
